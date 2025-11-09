@@ -1,0 +1,11 @@
+{
+  "name": "@modsynth/error-handling",
+  "version": "0.1.0",
+  "description": "Error Boundary error handling module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "peerDependencies": {"react": "^18.0.0"},
+  "devDependencies": {"@types/react": "^18.0.0", "typescript": "^5.0.0"}
+}

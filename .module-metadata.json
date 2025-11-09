@@ -1,0 +1,1 @@
+{"name": "error-handling", "version": "0.1.0", "description": "Error Boundary error handling module", "type": "library", "language": "typescript", "category": "frontend", "maintainers": [{"name": "Modsynth Team"}], "techStack": ["React", "TypeScript"]}
